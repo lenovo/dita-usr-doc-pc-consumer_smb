@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+This topic describe the function of a toggle switch, usually
+found on the side of a Lenovo notebook PC, which is used 
+to disable the camera for privacy protection.
+
+Some Lenovo PCs include a sliding cap on top of the built-in camera (
+camera shutter) for the same purpose. There is a separate topic for
+that mechanism. Check the product ID/OD and consult with your Lenovo contact
+to avoid using the wrong topic.
+-->
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+ "topic.dtd">
+<topic id="brief_intro_switch_camera" translate="yes" xml:lang="en">
+<title>Camera switch</title>
+<body>
+<p>This toggle switch is used to enable or disable the built-in camera.</p>
+<note>This switch is designed for privacy protection. If you don't
+need to use the camera, slide the switch to the off position to prevent
+any apps from using the camera.</note>
+</body>
+</topic>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+ "topic.dtd">
+<topic id="brief_intro_touchpad" xml:lang="en">
+<title>Touchpad</title>
+<body>
+<p>The touchpad is the PC's built-in pointing device, which provides the basic functionality of an
+         external mouse. Slide your finger on the touchpad to move the pointer on the screen and tap
+         or double-tap to select or execute a screen item.</p>
+<p>The touchpad also supports Windows multi-finger gestures, which
+provide shortcuts to frequently used apps and functions.</p>
+</body>
+</topic>

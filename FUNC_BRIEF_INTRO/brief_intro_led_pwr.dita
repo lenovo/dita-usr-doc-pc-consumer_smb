@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+The power light is usually located on or near the power button. A similar topic
+is also available for Legion products, for which the power light can also indicate
+the PC's operation mode. 
+
+Change history
+==============
+1. 2023-08-21, changed the layout of the table to be consistent with those for the charging and state light. 
+2. 2023-08-21, changed some wording based on comments from LB's editors. 
+
+-->
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+ "topic.dtd">
+<topic id="brief_intro_led_pwr" translate="yes" xml:lang="en">
+<title>Power light</title>
+<body>
+<p>The power light indicates the  current power state of the PC: whether it is powered on, powered
+   off, in sleep mode, or in hibernation mode.</p>
+<p>When the PC is powered on, this light can also indicate low battery by blinking rapidly.</p>
+ <table colsep="1" frame="topbot" pgwide="1" rowsep="1">
+  <title>Power light status and description</title>
+  <tgroup cols="3">
+   <colspec colname="col1" colwidth="1*"/>
+   <colspec colname="col2" colwidth="1*"/>
+   <colspec colname="col3" colwidth="1*"/>
+   <thead>
+    <row>
+     <entry>Light status</entry>
+     <entry>Power state</entry>
+     <entry>Battery charge level</entry>
+    </row>
+   </thead>
+   <tbody>
+    <row>
+     <entry>White (solid on)</entry>
+     <entry>Powered on</entry>
+     <entry>21%–100%</entry>
+    </row>
+    <row>
+     <entry>White (blinking rapidly)</entry>
+     <entry>Powered on </entry>
+     <entry>1%–20%</entry>
+    </row>
+    <row>
+     <entry>White (blinking slowly)</entry>
+     <entry>In sleep mode</entry>
+     <entry>/</entry>
+    </row>
+    <row>
+     <entry>Off</entry>
+     <entry>Powered off or in hibernation mode</entry>
+     <entry>/</entry>
+    </row>
+   </tbody>
+  </tgroup>
+ </table>
+</body>
+</topic>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+ "topic.dtd">
+ <!-- 
+Use this topic for PCs with a touch-enabled screen.You can use it for 
+PC projects of which a selected models support touch-enabled screens.
+Change history
+==========
+1. 2023-10-23, some wording changes were made. 
+   + … is the area where text … → is where text ...
+   + Select models have ... → Some models offer ...
+   + menu commands → menu items
+
+ -->
+<topic id="brief_intro_screen_touch-enabled" translate="yes" xml:lang="en">
+<title>Screen</title>
+<body>
+<p>The screen of the built-in display is where text, graphics, and videos are displayed. </p>
+<p>Some models offer touch-enabled screens, which allow you to interact with your PC by intuitively
+   touching buttons, icons, and menu items displayed on the screen. Touch-enabled screens also
+   support multi-finger gestures.</p>
+</body>
+</topic>

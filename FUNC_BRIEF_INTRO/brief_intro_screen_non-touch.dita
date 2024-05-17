@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Use this topic to describe the function for non-touch screens. 
+Change history
+==========
+1. 2023-10-23, Some wording changes are made. 
+   + is the area where text ... → is where text ...
+
+-->
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+ "topic.dtd">
+<topic id="brief_intro_screen_non-touch" translate="yes" xml:lang="en">
+<title>Screen</title>
+<body>
+<p>The screen of the built-in display is where text, graphics, and videos are displayed.</p>
+</body>
+</topic>

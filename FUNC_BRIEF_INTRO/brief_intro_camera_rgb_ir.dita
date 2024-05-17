@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+This topic is used to describe a PC built-in camera that can capture both
+visible and near-infrared light. PCs equipped with this type of camera usually
+support facial recognition.
+-->
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+ "topic.dtd">
+<topic id="brief_intro_camera_rgb_ir" translate="yes" xml:lang="en">
+   <title>Camera</title>
+   <body>
+      <p>The built-in camera captures visible light and converts it to digital signals. It is used
+         for video recording and video conferencing. </p>
+      <p>This camera also receives near-infrared waves emitted by an infrared LED and reflected by a
+         human face, so it can also be used for facial recognition. </p>
+   </body>
+</topic>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Change history
+==============
+1. 2023-08-08, "or other flexible surface" -> "other flexible surfaces"
+
+For air vents, take care to differentiate which are 
+intake and which are outlet and use the corrent topic. 
+-->
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+ "topic.dtd">
+<topic id="brief_intro_vents_intake" xml:lang="en">
+<title>Air vents (intake)</title>
+<body>
+<p>The air vents allow air to be sucked inside of the PC to cool the internal components.</p>
+ <note type="important">When the PC is operating, do not place it on a bed, sofa, carpet, or other
+      flexible surfaces. Otherwise, the air vents will be blocked and the PC may overheat, reducing
+      performance or causing the PC to be unresponsive or even shut down.</note>
+</body>
+</topic>

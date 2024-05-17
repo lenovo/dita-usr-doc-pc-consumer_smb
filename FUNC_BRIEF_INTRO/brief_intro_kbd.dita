@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+ "topic.dtd">
+
+<topic id="brief_intro_kbd" xml:lang="en">
+<title>Keyboard</title>
+<body>
+   <p>The keyboard is the PC's built-in input device for typing characters. It also includes keys
+         that can make you more productive when interacting with the PC, apps, and the Windows
+         operating system.</p>
+<table colsep="1" frame="topbot" pgwide="1" rowsep="1">
+<title>Productivity keys</title>
+<tgroup cols="3"><colspec colname="col1" colwidth="2*"/><colspec colname="col2" colwidth="3*"/><colspec colname="col3" colwidth="3*"/>
+<thead>
+<row>
+<entry>Key</entry>
+<entry>Location on the keyboard</entry>
+<entry>Function</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Function keys (F1 through F12)</entry>
+<entry>In the top row</entry>
+<entry>Executing predefined commands or functions for selected apps</entry>
+</row>
+<row>
+<entry>Hotkeys</entry>
+<entry>In the top row</entry>
+<entry><ul>
+<li>Changing some of the PC's frequently used settings</li>
+<li>Opening an app or a Windows gadget</li>
+</ul></entry>
+</row>
+<row>
+<entry>Fn key</entry>
+<entry>In the lower-left corner</entry>
+<entry><ul>
+<li>Toggling the functions of dual-function keys</li>
+<li> Used with several letter keys to change some of the PC's frequently used settings</li>
+</ul></entry>
+</row>
+<row>
+<entry>Windows key</entry>
+<entry>In the lower-left corner</entry>
+<entry>Used with certain keys to change some frequently used Windows
+settings</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<p>Hotkeys share keys with function keys. To toggle the functions for these keys, hold down the Fn
+   key or turn on the FnLock switch.</p>
+<note>Keyboard layout varies by language and geographical location. The keyboard on your PC may look
+         slightly different from the product illustrations of this publication. </note>
+</body>
+</topic>

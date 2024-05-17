@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+ "topic.dtd">
+<topic id="brief_intro_led_camera" translate="yes" xml:lang="en">
+<title>Infrared camera</title>
+<body>
+<p>The infrared camera receives near-infrared waves emitted by an infrared LED and reflected by a
+   human face. It is used for facial recognition. </p>
+</body>
+</topic>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+The infrared LED is usually located on top of the screen, near the camera. 
+-->
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+ "topic.dtd">
+<topic id="brief_intro_led_ir" translate="yes" xml:lang="en">
+<title>Infrared LED</title>
+<body>
+<p>The infrared LED generates and emits near-infrared waves that are received and used by a camera
+   (or a dedicated infrared camera) for facial recognition.</p>
+</body>
+</topic>

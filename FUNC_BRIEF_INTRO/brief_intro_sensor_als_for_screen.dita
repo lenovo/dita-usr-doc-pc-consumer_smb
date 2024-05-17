@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<!-- 
+  The ambient light sensor (ALS) can be used to enable adaptive brightness
+  for components with backlights. This topic is applicable to PCs that enable
+  adaptive brightness for the screen.
+  
+  There is a similar topic that describes the ALS being used to enable adaptive
+  brightness for the screen backlight and the keyboard backlight. 
+  
+  If your PC includes an ALS, be sure to choose the right topic based on which 
+  components have been enabled adaptive brightness. 
+-->
+<topic id="brief_intro_sensor_als_for_screen" translate="yes" xml:lang="en">
+  <title>Ambient light sensor</title>
+  <body>
+    <p>The ambient light sensor detects and measures the intensity of light in the user's
+      environment. The data collected by this sensor can be used to enable adaptive brightness for
+      the screen backlight. </p>
+  </body>
+</topic>

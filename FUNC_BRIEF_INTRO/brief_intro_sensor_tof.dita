@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="brief_intro_sensor_tof" translate="yes" xml:lang="en">
+  <title>Time-of-flight sensor</title>
+  <body>
+    <p>The time-of-flight sensor (also referred to as a ToF sensor) emits an infrared laser and uses
+      the reflected infrared energy to measure the distance and depth of objects in front of it. The
+      data collected by the sensor can be used to detect human presence or recognize gestures.</p>
+    <note>The infrared laser emitted by the ToF sensor is invisible to the human eye.</note>
+  </body>
+</topic>

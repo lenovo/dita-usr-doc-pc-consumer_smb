@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Use this topic for USB Type-C connectors that:
++ Support DisplayPort Alt Mode
++ Either does not support power input, or support power input but 
+is not intended to be used as the standard power input. 
+
+There is a separate topic for full-functioned USB Type-C connectors
+that also function as the PC'dc-in connector.
+-->
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+ "topic.dtd">
+<topic id="brief_intro_connector_usb-c_multi-purpose_usb_dp_non-primary_pwr_input" translate="yes"
+  xml:lang="en">
+  <title>Multi-purpose USB Type-C connector</title>
+  <body>
+    <p>This multi-purpose USB Type-C<sup>®</sup> connector is used to connect:</p>
+    <ul>
+      <li>Storage or peripheral devices that follow the universal serial bus (USB) specification for
+        data transfer and device interconnection</li>
+      <li>Display devices<note>When connecting display devices, you need to use appropriate cables
+          and adapters (if needed) according to the connection capabilities of the display
+          device.</note></li>
+    </ul>
+  </body>
+</topic>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+This topic is used to describe the function of a PC built-in camera that can only capture visible light.
+-->
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+ "topic.dtd">
+<topic id="brief_intro_camera_rgb_only" translate="yes" xml:lang="en">
+   <title>Camera</title>
+   <body>
+      <p>The built-in camera captures visible light and converts it to digital signals. It is used
+         for video recordings and video conferencing. </p>
+   </body>
+</topic>

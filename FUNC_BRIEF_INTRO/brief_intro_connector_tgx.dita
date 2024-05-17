@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+ "topic.dtd">
+ <!-- 
+"TGX" stands for "ThinkBook Graphics", so make sure the PC with this connector is ThinkBook branded. 
+If the PC is not ThinkBook branded, e.g. a ZhaoYang branded PC may include the same connector but is 
+referred to as a "GX" connector. 
+ -->
+<topic id="brief_intro_connector_tgx" translate="yes" xml:lang="en">
+ <title>Lenovo TGX connector</title>
+ <body>
+  <p>The Lenovo TGX connector is used to connect a Lenovo TGX dock to expand and enhance the PC's
+   graphics processing and output capability. </p>
+ </body>
+</topic>

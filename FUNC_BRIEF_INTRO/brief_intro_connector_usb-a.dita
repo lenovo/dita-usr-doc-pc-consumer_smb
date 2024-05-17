@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+This topic is for all USB Standard-A connectors, whether they support the always-on function or not. 
+A separate topic is available for describing the always-on function. If a PC includes a USB Standard-A
+connector that supports always-on, include both topics. 
+-->
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+ "topic.dtd">
+<topic id="brief_intro_connector_usb-a" translate="yes" xml:lang="en">
+<title>USB Standard-A connector</title>
+<body>
+<p>The USB Standard-A connector is used to connect storage or peripheral devices that follow the
+ universal serial bus (USB) specification for data transfer and device
+         interconnection. </p>
+</body>
+</topic>

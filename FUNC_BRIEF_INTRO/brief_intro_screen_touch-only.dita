@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+ "topic.dtd">
+ <!-- 
+Use this topic for PCs with a touch screen. To use this topic, all SKUs of the PC must support touch-enabled screens. These is a separate topic for PCs of which not all SKUs support touch-enabled screens. 
+ -->
+<topic id="brief_intro_screen_touch-only" translate="yes" xml:lang="en">
+ <title>Screen</title>
+ <body>
+  <p>The screen of the built-in display is where text, graphics, and videos are displayed. </p>
+  <p>The screen is touch-enabled, allowing you to interact with your PC by intuitively touching
+   buttons, icons, and menu items displayed on the screen. Touch-enabled screens also support
+   multi-finger gestures. </p>
+ </body>
+</topic>

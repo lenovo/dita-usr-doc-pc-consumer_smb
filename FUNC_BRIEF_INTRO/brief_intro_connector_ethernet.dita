@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+ "topic.dtd">
+<topic id="brief_intro_connector_ethernet" translate="-dita-use-conref-target" xml:lang="en">
+ <title>Ethernet connector</title>
+ <body>
+  <p>The Ethernet connector connects a cable modem or router to the PC to establish wired Internet
+   access.</p>
+ </body>
+</topic>

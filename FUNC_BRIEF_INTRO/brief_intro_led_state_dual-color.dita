@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+The state light is usually located on the right side of the PC. Its status is synchronized with that of the power light. There are two types of state light for Lenovo PCs: mono-color and dual-color. Dual-color light can assume two colors: white and amber. When the battery charge level is 20% or lower, the state light takes on the amber color.  This topic is specifically for the description of dual-colored state light. 
+-->
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+ "topic.dtd">
+<topic id="brief_intro_led_state_dual-color" translate="yes" xml:lang="en">
+ <title>State light</title>
+ <body>
+  <p>The state light indicates the current power state of the PC: whether it is powered on, powered
+   off, in sleep mode, or in hibernation mode.</p>
+  <p>When the PC is powered on, the color of the state light helps you determine whether the
+   battery is running low.</p>
+  <note>The status of the state light is synchronized with that of the power light. The state light
+   is usually located on the right or left side of the PC and is visible when the LCD lid is closed. </note>
+  <table colsep="1" frame="topbot" pgwide="1" rowsep="1">
+   <title>State light status and description</title>
+   <tgroup cols="3">
+    <colspec colname="col1" colwidth="1*"/>
+    <colspec colname="col2" colwidth="1*"/>
+    <colspec colname="col3" colwidth="1*"/>
+    <thead>
+     <row>
+      <entry>Light status</entry>
+      <entry>Power state</entry>
+      <entry>Battery charge level</entry>
+     </row>
+    </thead>
+    <tbody>
+     <row>
+      <entry>White (solid on)</entry>
+      <entry>Powered on</entry>
+      <entry>21%–100%</entry>
+     </row>
+     <row>
+      <entry>Amber (solid on)</entry>
+      <entry>Powered on </entry>
+      <entry>1%–20%</entry>
+     </row>
+     <row>
+      <entry>White (blinking slowly)</entry>
+      <entry>In sleep mode</entry>
+      <entry>/</entry>
+     </row>
+     <row>
+      <entry>Off</entry>
+      <entry>Powered off or in hibernation mode</entry>
+      <entry>/</entry>
+     </row>
+    </tbody>
+   </tgroup>
+  </table>
+ </body>
+</topic>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+This topic is dedicated to be used for Legion products, where the power light
+can indicate:
++ System power status (state)
++ PC's active operation mode (color)
++ Fingerprint status (color, green)
+Change history
+==============
+1. 2023-08-21, changed the layout of the table to be consistent with those for the charging and state light.
+2. 2023-08-21, changed some wording based on comments from LB's editors. 
+3. 2023-09-14, changed power light status and description by deleting light status for low-battery. (not supported by Legion products) 
+-->
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+ "topic.dtd">
+<topic id="brief_intro_led_pwr_legion" translate="yes" xml:lang="en">
+<title>Power light</title>
+<body>
+      <p>The power light indicates the  current power state of the PC: whether it is powered on,
+         powered off, in sleep mode, or in hibernation mode.</p>
+      <table colsep="1" frame="topbot" pgwide="1" rowsep="1">
+         <title>Power light status and description</title>
+         <tgroup cols="2">
+            <colspec colname="col1" colwidth="1*"/>
+            <colspec colname="col2" colwidth="1*"/>
+            <thead>
+               <row>
+                  <entry>Light status</entry>
+                  <entry>Power state</entry>
+               </row>
+            </thead>
+            <tbody>
+               <row>
+                  <entry>Solid on</entry>
+                  <entry>Powered on</entry>
+               </row>
+               <row>
+                  <entry>Blinking slowly</entry>
+                  <entry>In sleep mode</entry>
+               </row>
+               <row>
+                  <entry>Off</entry>
+                  <entry>Powered off or in hibernation mode</entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+<p>The color of the power light can indicate the PC's active operation mode.</p>
+<table colsep="1" frame="topbot" pgwide="1" rowsep="1">
+<title>Power light colors and the PC's active operation modes</title>
+<tgroup cols="2"><colspec colname="col1" colwidth="4*"/><colspec
+colname="col2" colwidth="6*"/>
+<thead>
+<row>
+<entry>Light color</entry>
+<entry>Operation mode</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>White</entry>
+<entry>Balance mode</entry>
+</row>
+<row>
+<entry>Blue</entry>
+<entry>Quiet mode</entry>
+</row>
+<row>
+<entry>Red</entry>
+<entry>Performance mode</entry>
+</row>
+<row>
+<entry>Purple</entry>
+<entry>Custom mode</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<p>If the PC's power button includes an embedded fingerprint sensor, the power light turns solid
+   green to prompt you to enroll or scan your fingerprint.</p>
+</body>
+</topic>

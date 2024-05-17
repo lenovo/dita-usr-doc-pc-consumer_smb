@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Include this topic if a USB connector (usually Standard-A) supports the Always-on function.
+  Change history
+  ==============
+  1. 2023-09-11, changed the wording "... when the PC is shut down, in sleep, or hibernation mode -> ... when the PC is powered off, in sleep mode, or in hibernation mode"
+-->
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+ "topic.dtd">
+<topic id="brief_intro_connector_always-on" translate="yes"
+xml:lang="en">
+<title>Always-on connector</title>
+<body>
+<p>A USB connector with a battery icon (<image keyref="ICON_BATTERY">
+        <alt>an icon of a dry-cell cylindrical battery</alt>
+      </image>) supports the always-on function. The PC can supply power to a USB device connected
+      to this type of connector even when the PC is powered off, in sleep mode, or in hibernation
+      mode.</p>
+<p>The always-on function can be turned on and off in:</p>
+<ul>
+ <li>The PC's firmware setup utility, or</li>
+<li>Lenovo Vantage or Lenovo PC Manager</li>
+</ul>
+</body>
+</topic>

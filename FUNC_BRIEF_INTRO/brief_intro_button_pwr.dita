@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+ "topic.dtd">
+<topic id="brief_intro_button_pwr" xml:lang="en">
+<title>Power button</title>
+<body>
+<p>Press the power button to turn on your PC. </p>
+<note>By default, on a Windows PC, pressing the power button
+when the PC is turned on will put the PC into sleep mode.</note>
+</body>
+</topic>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Change history
+==============
+1. 2023-08-08, switch the use of <tm> to <sup> for marking trademarked terms due to limitations found in Lenovo Arbortext PDF stylesheet.
+
+Not all USB Type-C connectors are created equal. 
+This topic is applicable for the most mundane USB Type-C 
+connectors-no display output and no Thunderbolt.
+
+Do not use this topic for USB Type-C connectors that support
+video output. 
+-->
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+ "topic.dtd">
+<topic id="brief_intro_connector_usb-c_usb_data_only" translate="yes"
+xml:lang="en">
+<title>USB Type-C connector</title>
+<body>
+   <p>This USB Type-C<sup>®</sup> connector is used to connect storage or peripheral devices that follow the
+   universal serial bus (USB) specifications for data transfer and device
+         interconnection. </p>
+   <note>This USB Type-C connector does not support DisplayPort<sup>™</sup> Alt Mode and cannot be
+   used to connect external display devices.</note>
+</body>
+</topic>

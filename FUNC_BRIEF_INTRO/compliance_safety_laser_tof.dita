@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="compliance_safety_laser_tof" translate="yes" xml:lang="en">
+  <title>Laser safety information</title>
+  <body>
+    <p>This device is classified as a Class 1 consumer laser product per <cite translate="no" xml:lang="en">IEC 60825-1:2014</cite>, <cite translate="no" xml:lang="en">EN 60825-1:2014+A11:2021</cite>, and <cite translate="no" xml:lang="en">EN 50689:2021</cite>. This device complies with FDA performance standards for laser products
+      except for conformance with <cite translate="no" xml:lang="en">IEC 60825-1 Ed. 3</cite>, as described in<cite> Laser Notice
+        No. 56</cite>, dated May 8, 2019.</p>
+    <image placement="break" keyref="LABEL_LASER_SAFETY_TOF">
+      <alt>a label artwork with text “CLASS 1 Consumer Laser Product, IEC 60825-1:2014/EN
+        60825-1:2014+A11:2021 EN 50689:2021”</alt>
+    </image>
+    <note type="caution">This device contains a laser that could be damaged
+      during repair or disassembly, which could result in hazardous exposure to infrared laser
+      emissions. There are no user serviceable parts within the device. Do not attempt to disassemble
+      or service the device.</note>
+  </body>
+</topic>

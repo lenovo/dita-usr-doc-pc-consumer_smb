@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+ "topic.dtd">
+<topic id="brief_intro_slot_security_lock" translate="yes" xml:lang="en">
+ <title>Security lock slot</title>
+ <body>
+  <p>The security lock slot is used to attach a compatible cable lock. The cable lock typically
+   includes a loop at one end and can be used to secure the PC to a stationary object, preventing
+   theft when the PC is left unattended for a short period of time in cafes, shops, libraries, and
+   other public places.</p>
+ </body>
+</topic>

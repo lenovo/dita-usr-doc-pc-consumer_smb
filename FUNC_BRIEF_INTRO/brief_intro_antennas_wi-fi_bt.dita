@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+The FCC regulations stipulate that the antenna locations must be specified in the product manual.
+-->
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+ "topic.dtd">
+<topic id="brief_intro_antennas_wi-fi_bt" translate="yes" xml:lang="en">
+<title>Antennas</title>
+<body>
+<p>The antennas transmit and receive radio waves to allow data to be transferred between your PC and
+   a Wi-Fi network device or a Bluetooth device.</p>
+<note>The antennas are hidden inside the PC.</note>
+</body>
+</topic>

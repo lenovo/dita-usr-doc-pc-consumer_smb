@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+ "topic.dtd">
+ <!-- 
+"GX" stands for "Graphics".
+If the PC is ThinkBook branded, the  connector is referred to as a "GX" connector. 
+Choose the right topic according to the product branding. 
+ -->
+<topic id="brief_intro_connector_tgx" translate="yes" xml:lang="en">
+ <title>Lenovo GX connector</title>
+ <body>
+  <p>The Lenovo GX connector is used to connect a Lenovo GX dock to expand and enhance the PC's
+   graphics processing and output capability. </p>
+ </body>
+</topic>

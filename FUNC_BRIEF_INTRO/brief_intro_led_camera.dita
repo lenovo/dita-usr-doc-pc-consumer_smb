@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+ "topic.dtd">
+ <!-- 
+Change history
+==============
+2023-11-7, changed the table caption from "Camera light statuses and descriptions" to "Camera light status and description"
+ -->
+<topic id="brief_intro_led_camera" translate="yes" xml:lang="en">
+<title>Camera light</title>
+<body>
+<p>The camera light indicates whether the camera is activated.</p>
+<table colsep="1" frame="topbot" pgwide="1" rowsep="1">
+<title>Camera light status and description</title>
+<tgroup cols="2"><colspec colname="col1" colwidth="4*"/><colspec
+colname="col2" colwidth="6*"/>
+<thead>
+<row>
+<entry>Camera light status</entry>
+<entry>Description</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>On</entry>
+<entry>The camera is activated.</entry>
+</row>
+<row>
+<entry>Off</entry>
+<entry>The camera is not activated. </entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</body>
+</topic>

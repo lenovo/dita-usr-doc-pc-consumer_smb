@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+ "topic.dtd">
+<topic id="brief_intro_mics" translate="yes" xml:lang="en">
+<title>Microphones</title>
+<body>
+ <p>The microphones are the PC's built-in sound input devices. They capture your voice and ambient
+      sound and convert them into digital form. Microphones are essential components when you use
+      your PC for video conferencing or voice recording.</p>
+</body>
+</topic>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Change history
+==============
+1. 2023-08-08, switch the use of <tm> to <sup> for marking trademarked terms due to limitations found in Lenovo Arbortext PDF stylesheet. 
+
+This topic is used for USB Type-C connectors that:
++ Support Thunderbolt
++ Act as the PC's dc-in connector
+There is a separate topic for Thunderbolt-enabled USB Type-C 
+connectors that do not function as the PC's dc-in connector.
+-->
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+ "topic.dtd">
+<topic id="brief_intro_connector_usb-c_multi-purpose_tbt_primary_pwr_input"
+translate="yes" xml:lang="en">
+<title>Multi-purpose USB Type-C connector</title>
+<body>
+  <p>This USB Type-C<sup>®</sup> connector is the PC's power input
+      connector. Use the included power adapter and this connector to supply power to the PC.</p>
+    <p>When this connector is not used by the included power adapter, it can also be used to
+      connect:</p>
+<ul>
+   <li>Storage or peripheral devices that follow the universal serial bus (USB) specification for
+        data transfer and device interconnection</li>
+<li>Display devices<note>When connecting display devices, you need to use appropriate cables and
+     adapters (if needed) according to the connection capabilities of the display
+    device.</note></li>
+  <li>Thunderbolt<sup>™</sup>-enabled docks or devices</li>
+</ul>
+</body>
+</topic>

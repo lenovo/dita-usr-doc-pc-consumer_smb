@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+ "topic.dtd">
+ <!-- 
+  Change history
+  ==============
+  2023-09-11, changed a word spelling "accidently -> accidentally"
+ -->
+<topic id="brief_intro_hole_novo_button" translate="yes" xml:lang="en">
+<title>Novo button hole</title>
+<body>
+ <p>When the PC is powered off, you can press the Novo button to display the Novo button menu. From
+      the menu, you can then choose to:</p>
+  <ul>
+    <li>Open the firmware setup utility</li>
+      <li>Display the boot device selection menu</li>
+      <li>Display the Windows advanced startup options page</li>
+  </ul>
+    <note>The Novo button is rarely used during normal PC operations. To prevent users from
+      accidentally pressing it, the Novo button is placed in a recessed hole. You can use a
+      straightened paper clip to press this button.</note>
+</body>
+</topic>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+ "topic.dtd">
+ <!-- 
+ If the USB Standard-A connector support SuperSpeed USB data transfer, which should be rare, the note must be deleted.
+ -->
+<topic id="brief_intro_connector_usb-a_usb2.0_concealed" translate="yes" xml:lang="en">
+ <title>Concealed USB Standard-A connector</title>
+ <body>
+  <p>This USB Standard-A connector is recessed and concealed beneath a cosmetic cover. It is
+   suitable for connecting a small-sized device that needs to be constantly plugged into the PC. The
+   USB nano receiver for a wireless mouse is a typical example of such devices.</p>
+  <note>This USB connector does not support SuperSpeed USB data transfer
+   protocols. If you need to transfer a large volume of data between a USB device and your PC,
+   consider selecting a USB connector that supports SuperSpeed USB data transfer protocols.
+  </note>
+ </body>
+</topic>

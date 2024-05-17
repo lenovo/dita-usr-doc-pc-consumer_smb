@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+This type of connector usually appears on the back the of the screen, behind the camera. 
+It include a line of round, metal contacts for attaching extension modules (Lenovo Magic Bay modules). 
+Do not use this topic to describe function of a similar set of metal contacts found 
+on detachable PCs. These contacts on a detachable PC are used to attach keyboard and
+there will be a separate topic for that type of connector.
+-->
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+ "topic.dtd">
+<topic id="brief_intro_connector_pogo-pins_4magic_bay_modules" translate="yes" xml:lang="en">
+   <title>Pogo pins connector</title>
+   <body>
+      <p>This connector consists of a magnetic strip and a set of metal contacts for magnetically
+         attaching Lenovo <ph translate="no">Magic Bay</ph> extension modules with a set of matching
+         pogo pins.</p>
+   </body>
+</topic>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Use this topic to describe the function of a sliding cap
+that is found on top of the camera. It is a purely mechanical
+part to physcially block the camera lens for privacy protection.
+Do not use this topic for Lenovo PCs with a sliding toggle switch. 
+These is a separate topic for that toggle switch that actually
+turns on or off the power of the camera.
+-->
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+ "topic.dtd">
+<topic id="brief_intro_switch_camera" translate="yes" xml:lang="en">
+<title>Camera shutter</title>
+<body>
+  <p>The camera shutter is a sliding cap that you can move to block the camera lens.</p>
+<note>The camera shutter is designed for privacy protection. When the camera lens is blocked, the
+      camera function is disabled.</note>
+</body>
+</topic>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This topic applies to PCs with specific SKUs that include a dual-purpose camera. The cameras in these selected SKUs are capable of detecting both visible and infrared light, whereas the cameras in other SKUs can only detect visible light. The presence of an IR LED can be used to determine the type of camera (dual-purpose or RGB only) for a specific SKU.
+-->
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+ "topic.dtd">
+<topic id="brief_intro_camera_rgb_ir-selected" translate="yes" xml:lang="en">
+   <title>Camera</title>
+   <body>
+      <p>The built-in camera captures visible light and converts it to digital signals. It is used
+         for video recording and video conferencing. </p>
+      <p>The camera for some models can also detect near-infrared waves. For those models, an IR LED
+         is also included to emit near-infrared waves. They are used together to achieve face-based
+         authentication. </p>
+   </body>
+</topic>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+The charging light is usually located near the PC's dc-in connector. 
+-->
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN"
+ "topic.dtd">
+<topic id="brief_intro_led_charging" translate="yes" xml:lang="en">
+<title>Charging light</title>
+<body>
+<p>The charging light indicates whether the PC is plugged into an electrical outlet. When the PC is
+         plugged into an electrical outlet, the color of the light indicates whether the battery is
+         fully charged (or will shortly be fully charged).</p>
+<table colsep="1" frame="topbot" pgwide="1" rowsep="1">
+<title>Charging light statuses and descriptions</title>
+<tgroup cols="3"><colspec colname="col1" colwidth="1*"/><colspec
+colname="col2" colwidth="1*"/><colspec colname="col3" colwidth="1*"/>
+<thead>
+<row>
+<entry>Light status</entry>
+<entry>Plugged in?</entry>
+<entry>Battery charge level</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Off</entry>
+<entry>No</entry>
+<entry>/</entry>
+</row>
+<row>
+<entry>On, amber</entry>
+<entry>Yes</entry>
+<entry>1%–90%</entry>
+</row>
+<row>
+<entry>On, white</entry>
+<entry>Yes</entry>
+<entry>91%–100% </entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+</body>
+</topic>
