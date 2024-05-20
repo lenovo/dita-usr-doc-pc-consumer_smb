@@ -16,6 +16,6 @@
   <body>
     <p>The ambient light sensor detects and measures the intensity of light in the user's
       environment. The data collected by this sensor can be used to enable adaptive brightness for
-      the screen backlight. </p>
+      the built-in screen. </p>
   </body>
 </topic>
